@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "project": "MTG-Commander-Field-Guide",
+  "asOf": "2026-10-26",
+  "revision": "Archive edition 1",
+  "progress": {
+    "label": "Published Commander snapshot pages",
+    "completed": 65,
+    "total": 65,
+    "basis": "60 published archetype dossiers and five format guides in the dated July 2026 Commander snapshot.",
+    "note": "Completion of this dated snapshot, not ongoing Commander-format research."
+  }
+}
